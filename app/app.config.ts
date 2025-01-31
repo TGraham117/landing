@@ -40,7 +40,7 @@ export default defineAppConfig({
     },
     pricing: {
       card: {
-        highlight: 'ring-gray-900 dark:ring-white',
+        highlight: 'ring-gray-300 dark:ring-white',
         features: {
           item: {
             icon: {
